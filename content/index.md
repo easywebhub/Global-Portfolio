@@ -17,4 +17,3 @@
                             ] }
 }
 ---
-INDEX CONTENTS

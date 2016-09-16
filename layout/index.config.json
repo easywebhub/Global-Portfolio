@@ -66,5 +66,12 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "work",
+        "displayName": "work",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
