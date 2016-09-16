@@ -101,5 +101,19 @@
         "type": "Array",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "informationName",
+        "displayName": "informationName",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "informationEmail",
+        "displayName": "informationEmail",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
