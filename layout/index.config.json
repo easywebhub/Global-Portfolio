@@ -73,5 +73,12 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "about",
+        "displayName": "about",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
