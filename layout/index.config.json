@@ -38,5 +38,12 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "logo",
+        "displayName": "logo",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]

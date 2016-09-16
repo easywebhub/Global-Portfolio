@@ -6,7 +6,7 @@
     "header": "How people build website",
     "description": "Thousands of developers use EasyWebHub to build personal, company, blog, ecommerce websites, support their businesses, and work together on open source technologies.",
     "logo":{
-     "image":"img/logo.png","title":"Global"
+     "image":"img/logo.png","title":"Global","name":"Global has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed."
       }
 }
 ---
