@@ -52,5 +52,12 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "nav",
+        "displayName": "nav",
+        "type": "Array",
+        "validations": [],
+        "required": false
     }
 ]
