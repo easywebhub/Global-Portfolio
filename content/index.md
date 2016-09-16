@@ -8,7 +8,7 @@
     "logo":{
      "image":"img/logo.png","title":"Global","name":"Global has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed."
       },
-     "header":{"image":"img/logo.png","title":"Global","btn":"Hire Us"} 
+     "head":{"image":"img/logo.png","title":"Global","btn":"Hire Us"} 
 }
 ---
 INDEX CONTENTS
