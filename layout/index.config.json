@@ -45,5 +45,12 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "head",
+        "displayName": "head",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
