@@ -4,23 +4,20 @@
                                "transform":"translate(0.000000,118.000000) scale(0.100000,-0.100000)",
                                "d":"M870,1167c-34-17-55-57-46-90c3-15,81-100,194-211l187-185l-565-1c-431,0-571-3-590-13c-55-28-64-94-18-137c21-20,33-20,597-20h575l-192-193C800,103,794,94,849,39c20-20,39-29,61-29c28,0,63,30,298,262c147,144,272,271,279,282c30,51,23,60-219,304C947,1180,926,1196,870,1167z","image":"img/about-visual.png","items":[{"url":"#0","title":"Winners"},{"url":"#0","title":"Philosophy"},{"url":"#0","title":"History"}]},
                                
-                               
-                               "contact":{"title":"Pawia 5, 31-154 Kraków, Poland","urlGs":"mailto:ouremail@gmail.com","nameG":"ouremail@gmail.com",
+                              "contact":{"title":"Pawia 5, 31-154 Kraków, Poland","urlGs":"mailto:ouremail@gmail.com","nameG":"ouremail@gmail.com",
                                      "urlP":"tel:+148126287560v","nameP":"+48 12 628 75 60","items":[{"url":"#0","title":"Bēhance"},
                                      {"url":"#0","title":"dribbble"},
                                      {"url":"mailto:ouremail@gmail.com","title":"Contact Us"}
                                      ]}, "hire":{"title":"You want us to do",
-                            "options-a":[{"id":"opt-1","value":"app design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"App Design"},
+                            "optionsA":[{"id":"opt-1","value":"app design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"App Design"},
                             {"id":"opt-2","value":"graphic design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Graphic Design"},
                              {"id":"opt-3","value":"motion design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Motion Design"}],
-                              "options-b":[{"id":"opt-1","value":"app design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"App Design"},
-                            {"id":"opt-2","value":"graphic design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Graphic Design"},
-                             {"id":"opt-3","value":"motion design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Motion Design"}],
-                             "options-b":[{"id":"opt-4","value":"ux design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":" UX Design"},
+                              "optionsB":[{"id":"opt-4","value":"ux design","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":" UX Design"},
                             {"id":"opt-5","value":"webdesign","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Webdesign"},
                              {"id":"opt-6","value":"marketing","transform":"translate(0.000000,111.000000) scale(0.100000,-0.100000)","d":"M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z","title":"Marketing"}]
                              },
-                             "outerNav":[{"class":"is-active","title":"Home"},{"class":"","title":"Works"},{"class":"","title":"About"},{"class":"","title":"Contact"},{"class":"","title":"Hire Uss"}]
-
+                             "outerNav":[{"class":"is-active","title":"Home"},{"class":"","title":"Works"},{"class":"","title":"About"},{"class":"","title":"Contact"},{"class":"","title":"Hire Uss"}],
+                             "informationName":{"type":"text","spellcheck":"false","label":"name"},
+                              "informationEmail":{"type":"email","spellcheck":"false","label":"Email"}
 }
 ---

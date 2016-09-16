@@ -87,5 +87,19 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "hire",
+        "displayName": "hire",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "outerNav",
+        "displayName": "outerNav",
+        "type": "Array",
+        "validations": [],
+        "required": false
     }
 ]
