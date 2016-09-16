@@ -59,5 +59,12 @@
         "type": "Array",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "intro",
+        "displayName": "intro",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
