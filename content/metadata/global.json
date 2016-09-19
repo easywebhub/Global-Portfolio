@@ -1,8 +1,8 @@
 {
-  "title": "EasyWebHub Advanced Template",
+  "title": "Global Portfolio",
   "description": "Thousands of developers use EasyWebHub to build personal, company, blog, ecommerce websites, support their businesses, and work together on open source technologies.",
-  "url": "https://easywebhub.com",
-  "github-url" : "http://localhost:3000/",
+  "url":"https://easywebhub.github.io/Global-Portfolio/",
+  "github-url" : "https://easywebhub.github.io/Global-Portfolio/",
   "meta-tag" : {
     "keywords": "website templates, easywebhub, easyapp",
     "author": "VinaAS Co.,Ltd"
