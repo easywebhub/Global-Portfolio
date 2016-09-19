@@ -1,10 +1,10 @@
 {
-  "title": "Global Portfolio",
-  "description": "Thousands of developers use EasyWebHub to build personal, company, blog, ecommerce websites, support their businesses, and work together on open source technologies.",
-  "url":"https://easywebhub.github.io/Global-Portfolio/",
-  "github-url" : "https://easywebhub.github.io/Global-Portfolio/",
-  "meta-tag" : {
-    "keywords": "website templates, easywebhub, easyapp",
-    "author": "VinaAS Co.,Ltd"
-  }
+    "title": "Global Portfolio",
+    "description": "Thousands of developers use EasyWebHub to build personal, company, blog, ecommerce websites, support their businesses, and work together on open source technologies.",
+    "url": "https://globalportfolio.easywebhub.com",
+    "github-url": "https://globalportfolio.easywebhub.com",
+    "meta-tag": {
+        "keywords": "website templates, easywebhub, easyapp",
+        "author": "VinaAS Co.,Ltd"
+    }
 }
